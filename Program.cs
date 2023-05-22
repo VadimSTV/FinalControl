@@ -9,3 +9,12 @@ Console.Write ("Задайте массив <= 3: ");
 int n;
 int.TryParse(Console.ReadLine()!, out n);
 string[] Arr = new string[n];
+
+void Array(string[] stringArr)      //create metod array
+{
+    for (int i = 0; i < stringArr.Length; i++)
+    {
+        Console.WriteLine("Введите {i + 1} элемент массива: ");
+        stringArr[i] = Console.ReadLine()!;
+    }
+}
