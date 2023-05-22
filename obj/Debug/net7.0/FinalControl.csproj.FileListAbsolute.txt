@@ -1,0 +1,15 @@
+C:\Users\Windows10\Desktop\FinalControl\FinalControl\bin\Debug\net7.0\FinalControl.exe
+C:\Users\Windows10\Desktop\FinalControl\FinalControl\bin\Debug\net7.0\FinalControl.deps.json
+C:\Users\Windows10\Desktop\FinalControl\FinalControl\bin\Debug\net7.0\FinalControl.runtimeconfig.json
+C:\Users\Windows10\Desktop\FinalControl\FinalControl\bin\Debug\net7.0\FinalControl.dll
+C:\Users\Windows10\Desktop\FinalControl\FinalControl\bin\Debug\net7.0\FinalControl.pdb
+C:\Users\Windows10\Desktop\FinalControl\FinalControl\obj\Debug\net7.0\FinalControl.csproj.AssemblyReference.cache
+C:\Users\Windows10\Desktop\FinalControl\FinalControl\obj\Debug\net7.0\FinalControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows10\Desktop\FinalControl\FinalControl\obj\Debug\net7.0\FinalControl.AssemblyInfoInputs.cache
+C:\Users\Windows10\Desktop\FinalControl\FinalControl\obj\Debug\net7.0\FinalControl.AssemblyInfo.cs
+C:\Users\Windows10\Desktop\FinalControl\FinalControl\obj\Debug\net7.0\FinalControl.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\Desktop\FinalControl\FinalControl\obj\Debug\net7.0\FinalControl.dll
+C:\Users\Windows10\Desktop\FinalControl\FinalControl\obj\Debug\net7.0\refint\FinalControl.dll
+C:\Users\Windows10\Desktop\FinalControl\FinalControl\obj\Debug\net7.0\FinalControl.pdb
+C:\Users\Windows10\Desktop\FinalControl\FinalControl\obj\Debug\net7.0\FinalControl.genruntimeconfig.cache
+C:\Users\Windows10\Desktop\FinalControl\FinalControl\obj\Debug\net7.0\ref\FinalControl.dll

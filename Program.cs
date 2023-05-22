@@ -5,16 +5,15 @@
 При решении не рекомендуется пользоваться коллекциями, лучше обойтись исключительно массивами.
 */
 
-Console.Write ("Задайте массив <= 3: ");
-int n;
-int.TryParse(Console.ReadLine()!, out n);
+Console.Write ("Задайте массив (<= 3) : ");
+int n = int.Parse(Console.ReadLine()!);
 string[] Arr = new string[n];
 
 void Array(string[] stringArr)      //create metod array
 {
     for (int i = 0; i < stringArr.Length; i++)
     {
-        Console.WriteLine("Введите {i + 1} элемент массива: ");
+        Console.WriteLine($"Введите {i + 1} элемент массива: ");
         stringArr[i] = Console.ReadLine()!;
     }
 }
@@ -42,7 +41,7 @@ string[] newArr(string[] Arr)
 {
     for (int i = 0; i < Arr.Length; i++)
     {
-        Console.WriteLine(Arr[i] + " ");
+        Console.Write(Arr[i] + " ");
     }
     Console.WriteLine();
 }
