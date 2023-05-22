@@ -18,3 +18,34 @@ void Array(string[] stringArr)      //create metod array
         stringArr[i] = Console.ReadLine()!;
     }
 }
+string[] newArr(string[] Arr)
+{
+    int n = 0;
+    for (int i = 0; i < Arr.Length; i++)
+    {
+        if (Arr[i].Length <= 3)
+            n++;
+    }    
+        string[] arrayRes = new string[n];
+        int j = 0;
+        for (int i = 0; i < Arr.Length; i++)
+        {
+            if (Arr[i].Length <= 3)
+            {
+                arrayRes[j] = Arr[i];
+                j++;
+            }
+        }
+        return arrayRes;
+    }
+    void printArr (string[] Arr)
+{
+    for (int i = 0; i < Arr.Length; i++)
+    {
+        Console.WriteLine(Arr[i] + " ");
+    }
+    Console.WriteLine();
+}
+
+Array(Arr);
+printArr(newArr(Arr));
